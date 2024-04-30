@@ -1,0 +1,1 @@
+python -u check_module.py

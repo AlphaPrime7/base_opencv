@@ -1,0 +1,1 @@
+python.exe -m pip3 install --upgrade pip
